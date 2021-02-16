@@ -17,30 +17,6 @@ body {
     font-style: 'Montserrat', sans-serif;
 }
 
-#navbarSupportedContent ul li {
-    display: inline;
-    color: #3f3f3f;  
-    margin: 0 2rem;
-    padding: 0;
-    border-collapse: collapse;
-   /* height: 30px;*/
-
-
-} 
-
-#navbarSupportedContent ul li a {
-    padding-bottom: 0;
-} 
-
-#navbarSupportedContent ul{
-    position: relative;   
-    list-style: none;
-    width: 90%;
-    max-width: 990px;
-    border-collapse: collapse;
-    display: contents;
-}   
-
 .carousel-nav-icon {
     height: 48px;
     width: 48px;

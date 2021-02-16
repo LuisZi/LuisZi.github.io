@@ -1,0 +1,36 @@
+#navbarSupportedContent ul li {
+    display: inline;
+    color: #3f3f3f;  
+    margin: 0 2rem;
+    padding: 0;
+    border-collapse: collapse;
+   /* height: 30px;*/
+
+
+} 
+
+#navbarSupportedContent ul li a {
+    padding-bottom: 0;
+} 
+
+#navbarSupportedContent ul{
+    position: relative;   
+    list-style: none;
+    width: 90%;
+    max-width: 990px;
+    border-collapse: collapse;
+    display: contents;
+}   
+
+
+
+.navbar-brand {
+    font-size: 1.8rem;
+    padding-bottom: 0;
+    
+}
+
+.navbar {
+    border-bottom: solid 3px #888888;
+    padding-bottom: 0;
+}
